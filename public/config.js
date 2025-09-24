@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/KMX_Exchange",
   "VITE_SEO_SITE_NAME": "Why Traders Are Leaving Hyperliquid for KMX Exchange.",
   "VITE_SEO_SITE_DESCRIPTION": "KMX Exchange — a modern, Robinhood-style crypto trading platform. A simple, retail-friendly alternative to Hyperliquid for perpetual trading.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/kmx-kuma-exchange-1382/",
+  "VITE_SEO_SITE_URL": "https://kmx.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@KMX_Exchange",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "KMX Exchange, Kuma Exchange, KMX crypto, Hyperliquid alternative, Hyperliquid vs KMX, Hyperliquid exchange, best Hyperliquid alternative, crypto exchange, perpetual exchange, perp DEX, crypto trading platform, modern fintech exchange, Robinhood style crypto, simple crypto trading, beginner friendly crypto exchange, Kuma crypto, KMX perp trading, Hyperliquid competitor, crypto on ramp, fiat to crypto exchange, secure crypto trading, fast crypto exchange",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
