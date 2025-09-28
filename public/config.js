@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "kmx-exchange",
   "VITE_ORDERLY_BROKER_NAME": "KMX - Kuma Exchange",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
