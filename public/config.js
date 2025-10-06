@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "KMX Exchange — a modern, Robinhood-style crypto trading platform. A simple, retail-friendly alternative to Hyperliquid for perpetual trading.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Vaults,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Talk to us, https://x.com/intent/tweet?text=Hi%20@KMX_Exchange",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
