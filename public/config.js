@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "KMX Exchange, Kuma Exchange, KMX crypto, Hyperliquid alternative, Hyperliquid vs KMX, Hyperliquid exchange, best Hyperliquid alternative, crypto exchange, perpetual exchange, perp DEX, crypto trading platform, modern fintech exchange, Robinhood style crypto, simple crypto trading, beginner friendly crypto exchange, Kuma crypto, KMX perp trading, Hyperliquid competitor, crypto on ramp, fiat to crypto exchange, secure crypto trading, fast crypto exchange",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
